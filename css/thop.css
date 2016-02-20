@@ -1,0 +1,34 @@
+body{
+    background-color: #ECE5CE !important;
+}
+
+.pozadina{
+    background-color: #eaeaea;
+}
+
+hr{
+    border-color: #774F38 !important;
+}
+
+.razmak20p {
+    margin-top: 20px;
+}
+
+.formatiranjeDatalista{
+    width: 100%;
+    height: 2.3125rem;
+    padding: 0.5rem;
+    margin: 0 0 1rem 0;
+}
+
+#prvaboja{
+    background-color: #F38630;
+}
+
+#drugaboja{
+    background-color: #E0E4CC;
+}
+
+#trecaboja{
+    background-color: #69D2E7;
+}
